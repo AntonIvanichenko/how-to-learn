@@ -207,8 +207,8 @@
 }
 
 .feynman__title {
-  min-width: 648px;
   width: 100%;
+  max-width: 648px;
   font-size: 120px;
   font-weight: 600;
   line-height: 1.15;
